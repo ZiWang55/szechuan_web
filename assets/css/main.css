@@ -84,10 +84,10 @@ input, select, textarea {
 
 	body {
 		background: #f0f4f4;
-		color: #5b5b5b;
+		color: #000000;
 		font-size: 15pt;
 		line-height: 1.85em;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'helvetica', sans-serif;
 		font-weight: 300;
 	}
 
@@ -2202,8 +2202,9 @@ input, select, textarea {
 		}
 
 		#header .imglogo {
-			height: 9em;
+			height: 8em;
 			margin-left: 2em;
+			
 		}
 
 		#header header {
@@ -2229,7 +2230,7 @@ input, select, textarea {
 			display: inline-block;
 			border-radius: 12px;
 			width: 8em;
-		
+		font-weight: 600;
 			line-height: 90px;
 			text-align: center;
 			font-size: 1.5em;
@@ -2330,6 +2331,7 @@ input, select, textarea {
 			}
 
 			#nav > ul > li {
+				font-weight: 800;
 				display: inline-block;
 				margin: -9px 0.5em 0 0.5em;
 				border-radius: 0.5em;
