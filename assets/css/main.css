@@ -2203,7 +2203,7 @@ input, select, textarea {
 
 		#header .imglogo {
 			height: 8em;
-			margin-left: 2em;
+			margin-left: 1.6em;
 			
 		}
 
@@ -3064,7 +3064,7 @@ input, select, textarea {
 
 				#header .inner {
 					padding-top: 1.5em;
-					padding-left: 1em;
+					padding-left: 0em;
 					padding-right: 1em;
 				}
 
